@@ -1,10 +1,9 @@
 # strathVueApp
 
-This template should help get you started developing with Vue 3 in Vite.
+# Descrription
+=> This is a university app which can take addmission requests.It also shows the university activities such as student life, events, clubs and other things of a university.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
